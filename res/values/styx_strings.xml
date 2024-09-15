@@ -44,4 +44,5 @@
 
     <!-- StyxOS maintainer -->
     <string name="maintainer">Maintainer</string>
+    <string name="styx_maintainer">Unofficial Maintainer</string>
 </resources>
